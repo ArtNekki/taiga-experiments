@@ -1,4 +1,4 @@
-# AngularTailwindStarter
+# Taiga experiments
 
 ## Webpack dotenv settings:
 
